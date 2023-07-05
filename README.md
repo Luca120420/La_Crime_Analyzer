@@ -25,7 +25,8 @@ from CrimeAnalyzer import CrimeAnalyzer
 # Instantiate the CrimeAnalyzer class and process the data
 url = 'https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD'
 path = 'data/crimes.csv'
-analyzer = CrimeAnalyzer(url, path)
+report_path = 'data/crime_report.txt'
+analyzer = CrimeAnalyzer(url, path, report_path)
 analyzer.process_data()
 ```
 ## Requirements
