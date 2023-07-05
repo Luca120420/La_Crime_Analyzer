@@ -1,22 +1,19 @@
 Victim Gender Distribution:
-Vict Sex
 M        285506
 F        273602
 Other      6875
-Name: count, dtype: int64
+Name: Vict Sex, dtype: int64
 
 Crime Status Distribution:
-Status Desc
 Invest Cont     437568
 Adult Other      74036
 Adult Arrest     51481
 Juv Arrest        1852
 Juv Other         1072
 UNK                  3
-Name: count, dtype: int64
+Name: Status Desc, dtype: int64
 
 Premise Distribution:
-Premis Desc
 SINGLE FAMILY DWELLING                                             124697
 STREET                                                             104103
 MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)                        87700
@@ -111,8 +108,8 @@ AUTO SUPPLY STORE*                                                    183
 MTA - RED LINE - UNION STATION                                        173
 DELIVERY SERVICE (FED EX, UPS, COURIERS,COURIER SERVICE)*             164
 NAIL SALON                                                            155
-MUNICIPAL BUS LINE INCLUDES LADOT/DASH                                149
 JEWELRY STORE                                                         149
+MUNICIPAL BUS LINE INCLUDES LADOT/DASH                                149
 TOBACCO SHOP                                                          147
 BEAUTY SUPPLY STORE                                                   141
 VACANT LOT                                                            140
@@ -120,12 +117,12 @@ MTA - RED LINE - PERSHING SQUARE                                      138
 PHARMACY INSIDE STORE OR SUPERMARKET*                                 132
 MTA - RED LINE - WILSHIRE/VERMONT                                     129
 TAXI                                                                  127
-PRIVATE SCHOOL/PRESCHOOL                                              126
 7TH AND METRO CENTER (NOT LINE SPECIFIC)                              126
+PRIVATE SCHOOL/PRESCHOOL                                              126
 THE BEVERLY CENTER                                                    124
 STUDIO (FILM/PHOTOGRAPHIC/MUSIC)                                      124
-HIGH-RISE BUILDING                                                    122
 HARDWARE/BUILDING SUPPLY                                              122
+HIGH-RISE BUILDING                                                    122
 DRIVE THRU*                                                           121
 SPORTS VENUE, OTHER                                                   118
 ELECTRONICS STORE (IE:RADIO SHACK, ETC.)                              118
@@ -137,23 +134,23 @@ MTA - RED LINE - HOLLYWOOD/VINE                                       109
 AUTO SALES LOT                                                        108
 ELEVATOR                                                              107
 MTA - RED LINE - HOLLYWOOD/HIGHLAND                                   101
-CONVENTION CENTER                                                      97
 PUBLIC RESTROOM(INDOORS-INSIDE)                                        97
-THE BEVERLY CONNECTION                                                 94
+CONVENTION CENTER                                                      97
 PET STORE                                                              94
+THE BEVERLY CONNECTION                                                 94
 SYNAGOGUE/TEMPLE                                                       89
 MTA - RED LINE - HOLLYWOOD/WESTERN                                     89
 TOW YARD*                                                              88
-MEDICAL MARIJUANA FACILITIES/BUSINESSES                                87
 MTA - EXPO LINE - EXPO/VERMONT                                         87
 STAPLES CENTER *                                                       87
-MTA - EXPO LINE - EXPO/CRENSHAW                                        86
+MEDICAL MARIJUANA FACILITIES/BUSINESSES                                87
 MASSAGE PARLOR                                                         86
 MTA - RED LINE - VERMONT/BEVERLY                                       86
+MTA - EXPO LINE - EXPO/CRENSHAW                                        86
 MTA - RED LINE - UNIVERSAL CITY/STUDIO CITY                            85
 MTA - RED LINE - VERMONT/SANTA MONICA                                  85
-SHORT-TERM VACATION RENTAL                                             84
 ENTERTAINMENT/COMEDY CLUB (OTHER)                                      84
+SHORT-TERM VACATION RENTAL                                             84
 SWAP MEET                                                              83
 COLISEUM                                                               82
 BUS-CHARTER/PRIVATE                                                    81
@@ -174,8 +171,8 @@ SPORTS ARENA                                                           70
 PUBLIC RESTROOM/OUTSIDE*                                               65
 MTA - BLUE LINE - WASHINGTON                                           65
 DAY CARE/ADULTS*                                                       64
-MTA - PURPLE LINE - WILSHIRE/WESTERN                                   63
 CREDIT UNION                                                           63
+MTA - PURPLE LINE - WILSHIRE/WESTERN                                   63
 GREYHOUND OR INTERSTATE BUS                                            61
 MTA - RED LINE - VERMONT/SUNSET                                        61
 DAY CARE/CHILDREN*                                                     59
@@ -186,144 +183,143 @@ TRADE SCHOOL (MEDICAL-TECHNICAL-BUSINESS)*                             54
 BUS, SCHOOL, CHURCH                                                    54
 RIVER BED*                                                             53
 FURNITURE STORE                                                        52
-MTA - BLUE LINE - 7TH AND METRO CENTER                                 51
-MTA - EXPO LINE - EXPO/LA BREA                                         51
 CLEANER/LAUNDROMAT                                                     51
+MTA - EXPO LINE - EXPO/LA BREA                                         51
+MTA - BLUE LINE - 7TH AND METRO CENTER                                 51
 MANUFACTURING COMPANY                                                  49
 SEX ORIENTED/BOOK STORE/STRIP CLUB/GENTLEMAN'S CLUB                    49
 TRAIN TRACKS                                                           48
-SKATEBOARD FACILITY/SKATEBOARD PARK*                                   47
 CEMETARY*                                                              47
+SKATEBOARD FACILITY/SKATEBOARD PARK*                                   47
 FACTORY                                                                46
 BOWLING ALLEY*                                                         45
 MTA - GREEN LINE - AVALON                                              44
 SAVINGS & LOAN                                                         43
 MTA - BLUE LINE - GRAND/LATTC                                          43
 POOL-PUBLIC/OUTDOOR OR INDOOR*                                         42
-FINANCE COMPANY                                                        42
 MTA - GOLD LINE - UNION STATION                                        42
+FINANCE COMPANY                                                        42
 MTA - BLUE LINE - PICO                                                 41
 MTA - BLUE LINE - 103RD/WATTS TOWERS                                   40
-BUS DEPOT/TERMINAL, OTHER THAN MTA                                     40
 MTA - EXPO LINE - EXPO PARK/USC                                        40
+BUS DEPOT/TERMINAL, OTHER THAN MTA                                     40
 MTA - ORANGE LINE - NORTH HOLLYWOOD                                    39
-MTA - EXPO LINE - LA CIENEGA/JEFFERSON                                 37
-EQUIPMENT RENTAL                                                       37
 MTA - GREEN LINE - HARBOR FWY                                          37
+EQUIPMENT RENTAL                                                       37
+MTA - EXPO LINE - LA CIENEGA/JEFFERSON                                 37
 TATTOO PARLOR*                                                         36
 MTA - EXPO LINE - JEFFERSON/USC                                        35
-MTA - EXPO LINE - FARMDALE                                             34
 ARCADE,GAME ROOM/VIDEO GAMES (EXAMPLE CHUCKIE CHEESE)*                 34
+MTA - EXPO LINE - FARMDALE                                             34
 PAWN SHOP                                                              33
 MTA - PURPLE LINE - WILSHIRE/NORMANDIE                                 32
 BASKETBALL COURTS                                                      32
-MTA - BLUE LINE - VERNON                                               31
 OTHER PLACE OF WORSHIP                                                 31
+MTA - BLUE LINE - VERNON                                               31
 MTA - BLUE LINE - SAN PEDRO                                            30
-MTA - GOLD LINE - HIGHLAND PARK                                        27
-MTA - EXPO LINE - EXPO/SEPULVEDA                                       27
 MTA - EXPO LINE - EXPO/BUNDY                                           27
+MTA - EXPO LINE - EXPO/SEPULVEDA                                       27
+MTA - GOLD LINE - HIGHLAND PARK                                        27
 FOSTER HOME BOYS OR GIRLS*                                             26
 MTA - SILVER LINE - HARBOR GATEWAY TRANSIT CTR                         25
 TELECOMMUNICATION FACILITY/LOCATION                                    25
-TERMINAL, OTHER THAN MTA                                               25
 MTA - EXPO LINE - LATTC/ORTHO INSTITUTE                                25
-MTA - EXPO LINE - 7TH AND METRO CENTER                                 24
-MTA - GREEN LINE - AVIATION/LAX                                        24
-AMUSEMENT PARK*                                                        24
+TERMINAL, OTHER THAN MTA                                               25
 MTA - EXPO LINE - PALMS                                                24
+MTA - EXPO LINE - 7TH AND METRO CENTER                                 24
+AMUSEMENT PARK*                                                        24
+MTA - GREEN LINE - AVIATION/LAX                                        24
 VISION CARE FACILITY*                                                  23
 VETERINARIAN/ANIMAL HOSPITAL                                           21
 TUNNEL                                                                 21
 CATERING/ICE CREAM TRUCK                                               20
 BOOK STORE                                                             20
-ENERGY PLANT/FACILITY                                                  19
-AIRCRAFT                                                               19
-MORTUARY                                                               19
-MOSQUE*                                                                19
 TRAIN, OTHER THAN MTA (ALSO QUERY 809/810/811)                         19
-TOOL SHED*                                                             18
+MOSQUE*                                                                19
+MORTUARY                                                               19
+AIRCRAFT                                                               19
+ENERGY PLANT/FACILITY                                                  19
 TRASH CAN/TRASH DUMPSTER                                               18
-HOSPICE                                                                17
+TOOL SHED*                                                             18
 MTA - GOLD LINE - CHINATOWN                                            17
+HOSPICE                                                                17
 BANKING INSIDE MARKET-STORE *                                          17
-MTA - ORANGE LINE - CANOGA                                             16
-TV/RADIO/APPLIANCE                                                     16
+MTA - PURPLE LINE - PERSHING SQUARE                                    16
 MTA - ORANGE LINE - VAN NUYS                                           16
 AMTRAK TRAIN                                                           16
-MTA - PURPLE LINE - PERSHING SQUARE                                    16
-MTA - EXPO LINE - WESTWOOD/RANCHO PARK                                 15
+TV/RADIO/APPLIANCE                                                     16
+MTA - ORANGE LINE - CANOGA                                             16
 MTA - ORANGE LINE - CHATSWORTH                                         15
+MTA - EXPO LINE - WESTWOOD/RANCHO PARK                                 15
 CULTURAL SIGNIFICANCE/MONUMENT                                         15
+MTA - ORANGE LINE - RESEDA                                             14
 OPTICAL OFFICE INSIDE STORE OR SUPERMARKET*                            14
 OTHER RR TRAIN (UNION PAC, SANTE FE ETC                                14
-MTA - ORANGE LINE - RESEDA                                             14
-DAM/RESERVOIR                                                          13
-MTA - PURPLE LINE - 7TH AND METRO CENTER                               13
+PEDESTRIAN OVERCROSSING                                                13
 MTA - PURPLE LINE - WESTLAKE/MACARTHUR PARK                            13
 MTA - GOLD LINE - SOTO                                                 13
 RECORD-CD MUSIC/COMPUTER GAME STORE                                    13
-PEDESTRIAN OVERCROSSING                                                13
-MTA - EXPO LINE - PICO                                                 12
-MTA - GOLD LINE - HERITAGE SQ                                          12
-MTA - ORANGE LINE - WOODLEY                                            12
-WATER FACILITY                                                         12
-PAY PHONE                                                              12
-MTA - ORANGE LINE - SEPULVEDA                                          12
-TRUCK, COMMERICAL                                                      12
+MTA - PURPLE LINE - 7TH AND METRO CENTER                               13
+DAM/RESERVOIR                                                          13
 MTA - GOLD LINE - SOUTHWEST MUSEUM                                     12
-MTA - GOLD LINE - MARIACHI PLAZA                                       11
+TRUCK, COMMERICAL                                                      12
+WATER FACILITY                                                         12
+MTA - ORANGE LINE - SEPULVEDA                                          12
+MTA - EXPO LINE - PICO                                                 12
+MTA - ORANGE LINE - WOODLEY                                            12
+PAY PHONE                                                              12
+MTA - GOLD LINE - HERITAGE SQ                                          12
 DRIVE THRU BANKING (WINDOW)*                                           11
-MTA - ORANGE LINE - BALBOA                                             11
 MTA - SILVER LINE - HARBOR FWY                                         11
-TRAIN DEPOT/TERMINAL, OTHER THAN MTA                                   10
+MTA - ORANGE LINE - BALBOA                                             11
+MTA - GOLD LINE - MARIACHI PLAZA                                       11
 MTA - ORANGE LINE - TAMPA                                              10
-GARMENT MANUFACTURER                                                   10
 MTA - GOLD LINE - LINCOLN/CYPRESS                                      10
+TRAIN DEPOT/TERMINAL, OTHER THAN MTA                                   10
+GARMENT MANUFACTURER                                                   10
 MTA - SILVER LINE - SLAUSON                                             9
-MTA - ORANGE LINE - WOODMAN                                             9
 MTA - PURPLE LINE - CIVIC CENTER/GRAND PARK                             9
 MTA - ORANGE LINE - SHERMAN WAY                                         9
 ABATEMENT LOCATION                                                      9
+MTA - ORANGE LINE - WOODMAN                                             9
 MTA - ORANGE LINE - ROSCOE                                              8
 METHADONE CLINIC                                                        8
+MTA - PURPLE LINE - UNION STATION                                       7
 OTHER INTERSTATE, CHARTER BUS                                           7
 COMPUTER SERVICES/REPAIRS/SALES                                         7
-MTA - PURPLE LINE - UNION STATION                                       7
-RETIRED (DUPLICATE) DO NOT USE THIS CODE                                6
-MTA - GOLD LINE - PICO/ALISO                                            6
-MASS GATHERING LOCATION                                                 6
 ESCALATOR*                                                              6
+RETIRED (DUPLICATE) DO NOT USE THIS CODE                                6
+MASS GATHERING LOCATION                                                 6
+MTA - GOLD LINE - PICO/ALISO                                            6
+BANK DROP BOX/MONEY DROP-OUTSIDE OF BANK*                               5
 MTA - ORANGE LINE - PIERCE COLLEGE                                      5
 MTA - ORANGE LINE - NORDHOFF                                            5
-BANK DROP BOX/MONEY DROP-OUTSIDE OF BANK*                               5
 MTA - ORANGE LINE - LAUREL CANYON                                       5
 MTA - ORANGE LINE - DE SOTO                                             5
-MTA - GOLD LINE - INDIANA                                               4
-SURPLUS SURVIVAL STORE                                                  4
-SKATING RINK*                                                           4
-MTA - SILVER LINE - 37TH ST/USC                                         4
 CHEMICAL STORAGE/MANUFACTURING PLANT                                    4
 MTA - SILVER LINE - ROSECRANS                                           4
-MTA - SILVER LINE - UNION STATION                                       3
-ABORTION CLINIC/ABORTION FACILITY*                                      3
-MTA - ORANGE LINE - VALLEY COLLEGE                                      3
-VIDEO RENTAL STORE                                                      3
-HANDBALL COURTS                                                         3
-MTA - SILVER LINE - MANCHESTER                                          3
-HOCKEY RINK/ICE HOCKEY                                                  3
+SURPLUS SURVIVAL STORE                                                  4
+MTA - SILVER LINE - 37TH ST/USC                                         4
+MTA - GOLD LINE - INDIANA                                               4
+SKATING RINK*                                                           4
 OIL REFINERY                                                            3
-MTA - SILVER LINE - PACIFIC COAST HWY                                   2
+VIDEO RENTAL STORE                                                      3
+HOCKEY RINK/ICE HOCKEY                                                  3
+MTA - SILVER LINE - MANCHESTER                                          3
+MTA - SILVER LINE - UNION STATION                                       3
+MTA - ORANGE LINE - VALLEY COLLEGE                                      3
+HANDBALL COURTS                                                         3
+ABORTION CLINIC/ABORTION FACILITY*                                      3
 MTA - SILVER LINE - LAC/USC MEDICAL CENTER                              2
 MUSCLE BEACH                                                            2
 MTA - SILVER LINE - DOWNTOWN STREET STOPS                               2
+MTA - SILVER LINE - PACIFIC COAST HWY                                   2
 HORSE RACING/SANTA ANITA PARK*                                          1
 MTA - GOLD LINE - LITTLE TOKYO/ARTS DISTRICT                            1
 HARBOR FRWY STATION (NOT LINE SPECIFIC)                                 1
-Name: count, dtype: int64
+Name: Premis Desc, dtype: int64
 
 Weapon Distribution:
-Weapon Desc
 STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE)    132629
 UNKNOWN WEAPON/OTHER WEAPON                        23185
 VERBAL THREAT                                      17918
@@ -380,8 +376,8 @@ EXPLOXIVE DEVICE                                      45
 LIQUOR/DRUGS                                          45
 BOMB THREAT                                           43
 RAZOR                                                 42
-DOG/ANIMAL (SIC ANIMAL ON)                            35
 ROPE/LIGATURE                                         35
+DOG/ANIMAL (SIC ANIMAL ON)                            35
 SEMI-AUTOMATIC RIFLE                                  35
 CLEAVER                                               28
 STARTER PISTOL/REVOLVER                               27
@@ -403,5 +399,5 @@ MAC-10 SEMIAUTOMATIC ASSAULT WEAPON                    2
 M1-1 SEMIAUTOMATIC ASSAULT RIFLE                       1
 HECKLER & KOCH 91 SEMIAUTOMATIC ASSAULT RIFLE          1
 M-14 SEMIAUTOMATIC ASSAULT RIFLE                       1
-Name: count, dtype: int64
+Name: Weapon Desc, dtype: int64
 
