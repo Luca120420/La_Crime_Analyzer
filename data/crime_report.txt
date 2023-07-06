@@ -1,171 +1,171 @@
-Victim Gender Distribution:
-M        285506
-F        273602
-Other      6875
-Name: Vict Sex, dtype: int64
+Distribuzione Sesso Vittime:
+M        287122
+F        275180
+Other      6926
+Name: Sesso Vittima, dtype: int64
 
-Crime Status Distribution:
-Invest Cont     437568
-Adult Other      74036
-Adult Arrest     51481
-Juv Arrest        1852
-Juv Other         1072
+Distribuzione Stato dei crimini:
+Invest Cont     440021
+Adult Other      74484
+Adult Arrest     51802
+Juv Arrest        1860
+Juv Other         1087
 UNK                  3
-Name: Status Desc, dtype: int64
+Name: Stato Desc, dtype: int64
 
-Premise Distribution:
-SINGLE FAMILY DWELLING                                             124697
-STREET                                                             104103
-MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)                        87700
-PARKING LOT                                                         36578
-SIDEWALK                                                            30308
-VEHICLE, PASSENGER/TRUCK                                            21203
-OTHER BUSINESS                                                      17600
-GARAGE/CARPORT                                                      11563
-DRIVEWAY                                                             9056
-PARKING UNDERGROUND/BUILDING                                         5963
-RESTAURANT/FAST FOOD                                                 5367
-OTHER RESIDENCE                                                      4772
-OTHER PREMISE                                                        4667
-ALLEY                                                                4521
-YARD (RESIDENTIAL/BUSINESS)                                          4168
-PARK/PLAYGROUND                                                      4035
-HOTEL                                                                3779
-DEPARTMENT STORE                                                     3672
-MARKET                                                               3357
-PORCH, RESIDENTIAL                                                   3091
-GAS STATION                                                          3066
-BANK                                                                 2942
-PUBLIC STORAGE                                                       2553
-AUTOMATED TELLER MACHINE (ATM)                                       2324
-OTHER STORE                                                          2304
-OTHER/OUTSIDE                                                        2081
-TRANSPORTATION FACILITY (AIRPORT)                                    2004
-MTA BUS                                                              1892
-CONDOMINIUM/TOWNHOUSE                                                1859
-MOTEL                                                                1712
-CLOTHING STORE                                                       1646
-CYBERSPACE                                                           1635
-MINI-MART                                                            1597
-HIGH SCHOOL                                                          1539
-HOSPITAL                                                             1503
-OFFICE BUILDING/OFFICE                                               1450
-BUS STOP                                                             1440
-DRUG STORE                                                           1421
-HEALTH SPA/GYM                                                       1259
-NIGHT CLUB (OPEN EVENINGS ONLY)                                      1202
-BAR/COCKTAIL/NIGHTCLUB                                               1191
-LIQUOR STORE                                                         1151
-JUNIOR HIGH SCHOOL                                                   1069
-SHOPPING MALL (COMMON AREA)                                          1003
-LAUNDROMAT                                                            998
-BEACH                                                                 951
-MAIL BOX                                                              921
-ELEMENTARY SCHOOL                                                     907
-NURSING/CONVALESCENT/RETIREMENT HOME                                  896
-COLLEGE/JUNIOR COLLEGE/UNIVERSITY                                     844
-LA UNION STATION (NOT LINE SPECIFIC)                                  806
-STORAGE SHED                                                          791
-CONSTRUCTION SITE                                                     769
-CHURCH/CHAPEL (CHANGED 03-03 FROM CHURCH/TEMPLE)                      735
-COFFEE SHOP (STARBUCKS, COFFEE BEAN, PEET'S, ETC.)                    728
-MISSIONS/SHELTERS                                                     718
-WAREHOUSE                                                             700
-TRANSIENT ENCAMPMENT                                                  668
-ABANDONED BUILDING ABANDONED HOUSE                                    644
-CELL PHONE STORE                                                      615
-MOBILE HOME/TRAILERS/CONSTRUCTION TRAILERS/RV'S/MOTORHOME             595
-DISCOUNT STORE (99 CENT,DOLLAR,ETC.                                   593
-MEDICAL/DENTAL OFFICES                                                591
-AUTO REPAIR SHOP                                                      590
-TRANSITIONAL HOUSING/HALFWAY HOUSE                                    580
+Distribuzione delle premesse:
+SINGLE FAMILY DWELLING                                             125444
+STREET                                                             104720
+MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)                        88243
+PARKING LOT                                                         36767
+SIDEWALK                                                            30495
+VEHICLE, PASSENGER/TRUCK                                            21312
+OTHER BUSINESS                                                      17695
+GARAGE/CARPORT                                                      11602
+DRIVEWAY                                                             9103
+PARKING UNDERGROUND/BUILDING                                         5986
+RESTAURANT/FAST FOOD                                                 5391
+OTHER RESIDENCE                                                      4801
+OTHER PREMISE                                                        4688
+ALLEY                                                                4541
+YARD (RESIDENTIAL/BUSINESS)                                          4185
+PARK/PLAYGROUND                                                      4058
+HOTEL                                                                3798
+DEPARTMENT STORE                                                     3694
+MARKET                                                               3371
+PORCH, RESIDENTIAL                                                   3102
+GAS STATION                                                          3078
+BANK                                                                 2945
+PUBLIC STORAGE                                                       2569
+AUTOMATED TELLER MACHINE (ATM)                                       2325
+OTHER STORE                                                          2319
+OTHER/OUTSIDE                                                        2098
+TRANSPORTATION FACILITY (AIRPORT)                                    2023
+MTA BUS                                                              1906
+CONDOMINIUM/TOWNHOUSE                                                1873
+MOTEL                                                                1722
+CLOTHING STORE                                                       1664
+CYBERSPACE                                                           1645
+MINI-MART                                                            1600
+HIGH SCHOOL                                                          1542
+HOSPITAL                                                             1510
+OFFICE BUILDING/OFFICE                                               1452
+BUS STOP                                                             1449
+DRUG STORE                                                           1426
+HEALTH SPA/GYM                                                       1269
+NIGHT CLUB (OPEN EVENINGS ONLY)                                      1210
+BAR/COCKTAIL/NIGHTCLUB                                               1199
+LIQUOR STORE                                                         1162
+JUNIOR HIGH SCHOOL                                                   1071
+SHOPPING MALL (COMMON AREA)                                          1008
+LAUNDROMAT                                                           1004
+BEACH                                                                 958
+MAIL BOX                                                              925
+ELEMENTARY SCHOOL                                                     910
+NURSING/CONVALESCENT/RETIREMENT HOME                                  902
+COLLEGE/JUNIOR COLLEGE/UNIVERSITY                                     848
+LA UNION STATION (NOT LINE SPECIFIC)                                  811
+STORAGE SHED                                                          796
+CONSTRUCTION SITE                                                     773
+CHURCH/CHAPEL (CHANGED 03-03 FROM CHURCH/TEMPLE)                      740
+COFFEE SHOP (STARBUCKS, COFFEE BEAN, PEET'S, ETC.)                    731
+MISSIONS/SHELTERS                                                     720
+WAREHOUSE                                                             707
+TRANSIENT ENCAMPMENT                                                  672
+ABANDONED BUILDING ABANDONED HOUSE                                    652
+CELL PHONE STORE                                                      616
+DISCOUNT STORE (99 CENT,DOLLAR,ETC.                                   599
+MEDICAL/DENTAL OFFICES                                                597
+MOBILE HOME/TRAILERS/CONSTRUCTION TRAILERS/RV'S/MOTORHOME             594
+AUTO REPAIR SHOP                                                      593
+TRANSITIONAL HOUSING/HALFWAY HOUSE                                    584
 GROUP HOME                                                            548
-WEBSITE                                                               544
-DIY CENTER (LOWE'S,HOME DEPOT,OSH,CONTRACTORS WAREHOUSE)              526
-GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)                    523
-BAR/SPORTS BAR (OPEN DAY & NIGHT)                                     487
-PATIO*                                                                481
-POLICE FACILITY                                                       469
-BEAUTY/BARBER SHOP                                                    335
-LIBRARY                                                               329
-BALCONY*                                                              308
-SINGLE RESIDENCE OCCUPANCY (SRO'S) LOCATIONS                          302
-CAR WASH                                                              297
-THE GROVE                                                             296
-MTA - RED LINE - WESTLAKE/MACARTHUR PARK                              246
-PROJECT/TENEMENT/PUBLIC HOUSING                                       237
-SPECIALTY SCHOOL/OTHER                                                229
-APARTMENT/CONDO COMMON LAUNDRY ROOM                                   222
-MTA - RED LINE - 7TH AND METRO CENTER                                 218
-MTA - RED LINE - NORTH HOLLYWOOD                                      217
-MEMBERSHIP STORE (COSTCO,SAMS CLUB)*                                  212
+WEBSITE                                                               546
+DIY CENTER (LOWE'S,HOME DEPOT,OSH,CONTRACTORS WAREHOUSE)              530
+GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)                    527
+BAR/SPORTS BAR (OPEN DAY & NIGHT)                                     490
+PATIO*                                                                482
+POLICE FACILITY                                                       475
+BEAUTY/BARBER SHOP                                                    337
+LIBRARY                                                               334
+BALCONY*                                                              310
+SINGLE RESIDENCE OCCUPANCY (SRO'S) LOCATIONS                          306
+CAR WASH                                                              300
+THE GROVE                                                             298
+MTA - RED LINE - WESTLAKE/MACARTHUR PARK                              250
+PROJECT/TENEMENT/PUBLIC HOUSING                                       239
+SPECIALTY SCHOOL/OTHER                                                230
+MTA - RED LINE - NORTH HOLLYWOOD                                      223
+APARTMENT/CONDO COMMON LAUNDRY ROOM                                   223
+MTA - RED LINE - 7TH AND METRO CENTER                                 219
+MEMBERSHIP STORE (COSTCO,SAMS CLUB)*                                  214
 DODGER STADIUM                                                        203
-FREEWAY                                                               201
-AUTO DEALERSHIP (CHEVY, FORD, BMW, MERCEDES, ETC.)                    194
+FREEWAY                                                               203
+AUTO DEALERSHIP (CHEVY, FORD, BMW, MERCEDES, ETC.)                    192
+POST OFFICE                                                           188
 THEATRE/MOVIE                                                         187
-POST OFFICE                                                           184
-AUTO SUPPLY STORE*                                                    183
-MTA - RED LINE - UNION STATION                                        173
-DELIVERY SERVICE (FED EX, UPS, COURIERS,COURIER SERVICE)*             164
-NAIL SALON                                                            155
+AUTO SUPPLY STORE*                                                    182
+MTA - RED LINE - UNION STATION                                        174
+DELIVERY SERVICE (FED EX, UPS, COURIERS,COURIER SERVICE)*             165
+NAIL SALON                                                            156
+MUNICIPAL BUS LINE INCLUDES LADOT/DASH                                150
+TOBACCO SHOP                                                          149
 JEWELRY STORE                                                         149
-MUNICIPAL BUS LINE INCLUDES LADOT/DASH                                149
-TOBACCO SHOP                                                          147
+VACANT LOT                                                            142
 BEAUTY SUPPLY STORE                                                   141
-VACANT LOT                                                            140
-MTA - RED LINE - PERSHING SQUARE                                      138
+MTA - RED LINE - PERSHING SQUARE                                      139
 PHARMACY INSIDE STORE OR SUPERMARKET*                                 132
+TAXI                                                                  130
 MTA - RED LINE - WILSHIRE/VERMONT                                     129
-TAXI                                                                  127
 7TH AND METRO CENTER (NOT LINE SPECIFIC)                              126
 PRIVATE SCHOOL/PRESCHOOL                                              126
-THE BEVERLY CENTER                                                    124
 STUDIO (FILM/PHOTOGRAPHIC/MUSIC)                                      124
+THE BEVERLY CENTER                                                    124
 HARDWARE/BUILDING SUPPLY                                              122
 HIGH-RISE BUILDING                                                    122
-DRIVE THRU*                                                           121
-SPORTS VENUE, OTHER                                                   118
+DRIVE THRU*                                                           122
+SPORTS VENUE, OTHER                                                   119
 ELECTRONICS STORE (IE:RADIO SHACK, ETC.)                              118
 CHECK CASHING*                                                        116
 FRAT HOUSE/SORORITY/DORMITORY                                         115
 STAIRWELL*                                                            114
-MTA - EXPO LINE - EXPO/WESTERN                                        111
-MTA - RED LINE - HOLLYWOOD/VINE                                       109
-AUTO SALES LOT                                                        108
+MTA - EXPO LINE - EXPO/WESTERN                                        112
+MTA - RED LINE - HOLLYWOOD/VINE                                       110
+AUTO SALES LOT                                                        109
 ELEVATOR                                                              107
-MTA - RED LINE - HOLLYWOOD/HIGHLAND                                   101
-PUBLIC RESTROOM(INDOORS-INSIDE)                                        97
-CONVENTION CENTER                                                      97
-PET STORE                                                              94
-THE BEVERLY CONNECTION                                                 94
+MTA - RED LINE - HOLLYWOOD/HIGHLAND                                   104
+CONVENTION CENTER                                                     103
+PUBLIC RESTROOM(INDOORS-INSIDE)                                        98
+THE BEVERLY CONNECTION                                                 96
+PET STORE                                                              95
+MTA - RED LINE - HOLLYWOOD/WESTERN                                     90
+MEDICAL MARIJUANA FACILITIES/BUSINESSES                                89
 SYNAGOGUE/TEMPLE                                                       89
-MTA - RED LINE - HOLLYWOOD/WESTERN                                     89
 TOW YARD*                                                              88
+MASSAGE PARLOR                                                         88
+STAPLES CENTER *                                                       88
+MTA - EXPO LINE - EXPO/CRENSHAW                                        87
 MTA - EXPO LINE - EXPO/VERMONT                                         87
-STAPLES CENTER *                                                       87
-MEDICAL MARIJUANA FACILITIES/BUSINESSES                                87
-MASSAGE PARLOR                                                         86
 MTA - RED LINE - VERMONT/BEVERLY                                       86
-MTA - EXPO LINE - EXPO/CRENSHAW                                        86
 MTA - RED LINE - UNIVERSAL CITY/STUDIO CITY                            85
 MTA - RED LINE - VERMONT/SANTA MONICA                                  85
-ENTERTAINMENT/COMEDY CLUB (OTHER)                                      84
 SHORT-TERM VACATION RENTAL                                             84
+ENTERTAINMENT/COMEDY CLUB (OTHER)                                      84
 SWAP MEET                                                              83
 COLISEUM                                                               82
 BUS-CHARTER/PRIVATE                                                    81
-NURSERY/FLOWER SHOP                                                    80
-GUN/SPORTING GOODS                                                     79
-UNDERPASS/BRIDGE*                                                      78
+NURSERY/FLOWER SHOP                                                    81
+GUN/SPORTING GOODS                                                     80
+UNDERPASS/BRIDGE*                                                      79
 VEHICLE STORAGE LOT (CARS, TRUCKS, RV'S, BOATS, TRAILERS, ETC.)        77
+METROLINK TRAIN                                                        77
+GOLF COURSE*                                                           76
 MUSEUM                                                                 76
+SLIPS/DOCK/MARINA/BOAT                                                 76
 MTA PROPERTY OR PARKING LOT                                            75
-SLIPS/DOCK/MARINA/BOAT                                                 75
-GOLF COURSE*                                                           75
 VALET                                                                  74
-METROLINK TRAIN                                                        73
+RECYCLING CENTER                                                       72
 FIRE STATION                                                           72
-RECYCLING CENTER                                                       71
 DETENTION/JAIL FACILITY                                                71
 SPORTS ARENA                                                           70
 PUBLIC RESTROOM/OUTSIDE*                                               65
@@ -176,27 +176,27 @@ MTA - PURPLE LINE - WILSHIRE/WESTERN                                   63
 GREYHOUND OR INTERSTATE BUS                                            61
 MTA - RED LINE - VERMONT/SUNSET                                        61
 DAY CARE/CHILDREN*                                                     59
-MTA - RED LINE - CIVIC CENTER/GRAND PARK                               57
-BUS STOP/LAYOVER (ALSO QUERY 124)                                      55
+MTA - RED LINE - CIVIC CENTER/GRAND PARK                               56
+RIVER BED*                                                             55
 MTA - PURPLE LINE - WILSHIRE/VERMONT                                   55
+BUS STOP/LAYOVER (ALSO QUERY 124)                                      55
 TRADE SCHOOL (MEDICAL-TECHNICAL-BUSINESS)*                             54
 BUS, SCHOOL, CHURCH                                                    54
-RIVER BED*                                                             53
+MTA - BLUE LINE - 7TH AND METRO CENTER                                 52
+SEX ORIENTED/BOOK STORE/STRIP CLUB/GENTLEMAN'S CLUB                    52
 FURNITURE STORE                                                        52
-CLEANER/LAUNDROMAT                                                     51
 MTA - EXPO LINE - EXPO/LA BREA                                         51
-MTA - BLUE LINE - 7TH AND METRO CENTER                                 51
+CLEANER/LAUNDROMAT                                                     51
 MANUFACTURING COMPANY                                                  49
-SEX ORIENTED/BOOK STORE/STRIP CLUB/GENTLEMAN'S CLUB                    49
 TRAIN TRACKS                                                           48
-CEMETARY*                                                              47
 SKATEBOARD FACILITY/SKATEBOARD PARK*                                   47
+CEMETARY*                                                              47
+BOWLING ALLEY*                                                         46
 FACTORY                                                                46
-BOWLING ALLEY*                                                         45
+MTA - BLUE LINE - GRAND/LATTC                                          44
 MTA - GREEN LINE - AVALON                                              44
 SAVINGS & LOAN                                                         43
-MTA - BLUE LINE - GRAND/LATTC                                          43
-POOL-PUBLIC/OUTDOOR OR INDOOR*                                         42
+POOL-PUBLIC/OUTDOOR OR INDOOR*                                         43
 MTA - GOLD LINE - UNION STATION                                        42
 FINANCE COMPANY                                                        42
 MTA - BLUE LINE - PICO                                                 41
@@ -204,179 +204,179 @@ MTA - BLUE LINE - 103RD/WATTS TOWERS                                   40
 MTA - EXPO LINE - EXPO PARK/USC                                        40
 BUS DEPOT/TERMINAL, OTHER THAN MTA                                     40
 MTA - ORANGE LINE - NORTH HOLLYWOOD                                    39
-MTA - GREEN LINE - HARBOR FWY                                          37
-EQUIPMENT RENTAL                                                       37
 MTA - EXPO LINE - LA CIENEGA/JEFFERSON                                 37
+EQUIPMENT RENTAL                                                       37
+MTA - GREEN LINE - HARBOR FWY                                          37
+MTA - EXPO LINE - JEFFERSON/USC                                        36
 TATTOO PARLOR*                                                         36
-MTA - EXPO LINE - JEFFERSON/USC                                        35
-ARCADE,GAME ROOM/VIDEO GAMES (EXAMPLE CHUCKIE CHEESE)*                 34
 MTA - EXPO LINE - FARMDALE                                             34
+ARCADE,GAME ROOM/VIDEO GAMES (EXAMPLE CHUCKIE CHEESE)*                 34
+MTA - GREEN LINE - AVIATION/LAX                                        33
 PAWN SHOP                                                              33
-MTA - PURPLE LINE - WILSHIRE/NORMANDIE                                 32
+OTHER PLACE OF WORSHIP                                                 32
 BASKETBALL COURTS                                                      32
-OTHER PLACE OF WORSHIP                                                 31
+MTA - PURPLE LINE - WILSHIRE/NORMANDIE                                 31
 MTA - BLUE LINE - VERNON                                               31
 MTA - BLUE LINE - SAN PEDRO                                            30
+MTA - GOLD LINE - HIGHLAND PARK                                        27
 MTA - EXPO LINE - EXPO/BUNDY                                           27
 MTA - EXPO LINE - EXPO/SEPULVEDA                                       27
-MTA - GOLD LINE - HIGHLAND PARK                                        27
+MTA - SILVER LINE - HARBOR GATEWAY TRANSIT CTR                         26
 FOSTER HOME BOYS OR GIRLS*                                             26
-MTA - SILVER LINE - HARBOR GATEWAY TRANSIT CTR                         25
-TELECOMMUNICATION FACILITY/LOCATION                                    25
 MTA - EXPO LINE - LATTC/ORTHO INSTITUTE                                25
+AMUSEMENT PARK*                                                        25
 TERMINAL, OTHER THAN MTA                                               25
-MTA - EXPO LINE - PALMS                                                24
+TELECOMMUNICATION FACILITY/LOCATION                                    25
 MTA - EXPO LINE - 7TH AND METRO CENTER                                 24
-AMUSEMENT PARK*                                                        24
-MTA - GREEN LINE - AVIATION/LAX                                        24
+MTA - EXPO LINE - PALMS                                                24
 VISION CARE FACILITY*                                                  23
 VETERINARIAN/ANIMAL HOSPITAL                                           21
 TUNNEL                                                                 21
-CATERING/ICE CREAM TRUCK                                               20
 BOOK STORE                                                             20
-TRAIN, OTHER THAN MTA (ALSO QUERY 809/810/811)                         19
+CATERING/ICE CREAM TRUCK                                               20
 MOSQUE*                                                                19
+TRAIN, OTHER THAN MTA (ALSO QUERY 809/810/811)                         19
 MORTUARY                                                               19
 AIRCRAFT                                                               19
+TRASH CAN/TRASH DUMPSTER                                               19
 ENERGY PLANT/FACILITY                                                  19
-TRASH CAN/TRASH DUMPSTER                                               18
 TOOL SHED*                                                             18
 MTA - GOLD LINE - CHINATOWN                                            17
 HOSPICE                                                                17
 BANKING INSIDE MARKET-STORE *                                          17
-MTA - PURPLE LINE - PERSHING SQUARE                                    16
-MTA - ORANGE LINE - VAN NUYS                                           16
-AMTRAK TRAIN                                                           16
 TV/RADIO/APPLIANCE                                                     16
 MTA - ORANGE LINE - CANOGA                                             16
-MTA - ORANGE LINE - CHATSWORTH                                         15
+MTA - PURPLE LINE - PERSHING SQUARE                                    16
+MTA - ORANGE LINE - CHATSWORTH                                         16
+MTA - ORANGE LINE - VAN NUYS                                           16
+AMTRAK TRAIN                                                           16
 MTA - EXPO LINE - WESTWOOD/RANCHO PARK                                 15
 CULTURAL SIGNIFICANCE/MONUMENT                                         15
-MTA - ORANGE LINE - RESEDA                                             14
 OPTICAL OFFICE INSIDE STORE OR SUPERMARKET*                            14
+MTA - ORANGE LINE - RESEDA                                             14
+MTA - PURPLE LINE - 7TH AND METRO CENTER                               14
 OTHER RR TRAIN (UNION PAC, SANTE FE ETC                                14
-PEDESTRIAN OVERCROSSING                                                13
-MTA - PURPLE LINE - WESTLAKE/MACARTHUR PARK                            13
 MTA - GOLD LINE - SOTO                                                 13
+MTA - PURPLE LINE - WESTLAKE/MACARTHUR PARK                            13
+PEDESTRIAN OVERCROSSING                                                13
 RECORD-CD MUSIC/COMPUTER GAME STORE                                    13
-MTA - PURPLE LINE - 7TH AND METRO CENTER                               13
 DAM/RESERVOIR                                                          13
-MTA - GOLD LINE - SOUTHWEST MUSEUM                                     12
-TRUCK, COMMERICAL                                                      12
-WATER FACILITY                                                         12
+MTA - EXPO LINE - PICO                                                 13
 MTA - ORANGE LINE - SEPULVEDA                                          12
-MTA - EXPO LINE - PICO                                                 12
-MTA - ORANGE LINE - WOODLEY                                            12
+WATER FACILITY                                                         12
 PAY PHONE                                                              12
 MTA - GOLD LINE - HERITAGE SQ                                          12
-DRIVE THRU BANKING (WINDOW)*                                           11
-MTA - SILVER LINE - HARBOR FWY                                         11
-MTA - ORANGE LINE - BALBOA                                             11
+TRUCK, COMMERICAL                                                      12
+MTA - ORANGE LINE - WOODLEY                                            12
+MTA - GOLD LINE - SOUTHWEST MUSEUM                                     12
 MTA - GOLD LINE - MARIACHI PLAZA                                       11
-MTA - ORANGE LINE - TAMPA                                              10
+MTA - ORANGE LINE - BALBOA                                             11
+MTA - SILVER LINE - HARBOR FWY                                         11
+DRIVE THRU BANKING (WINDOW)*                                           11
 MTA - GOLD LINE - LINCOLN/CYPRESS                                      10
+MTA - ORANGE LINE - TAMPA                                              10
 TRAIN DEPOT/TERMINAL, OTHER THAN MTA                                   10
 GARMENT MANUFACTURER                                                   10
-MTA - SILVER LINE - SLAUSON                                             9
 MTA - PURPLE LINE - CIVIC CENTER/GRAND PARK                             9
+OTHER INTERSTATE, CHARTER BUS                                           9
+MTA - SILVER LINE - SLAUSON                                             9
 MTA - ORANGE LINE - SHERMAN WAY                                         9
-ABATEMENT LOCATION                                                      9
 MTA - ORANGE LINE - WOODMAN                                             9
+ABATEMENT LOCATION                                                      9
 MTA - ORANGE LINE - ROSCOE                                              8
 METHADONE CLINIC                                                        8
 MTA - PURPLE LINE - UNION STATION                                       7
-OTHER INTERSTATE, CHARTER BUS                                           7
 COMPUTER SERVICES/REPAIRS/SALES                                         7
 ESCALATOR*                                                              6
-RETIRED (DUPLICATE) DO NOT USE THIS CODE                                6
+MTA - ORANGE LINE - PIERCE COLLEGE                                      6
 MASS GATHERING LOCATION                                                 6
 MTA - GOLD LINE - PICO/ALISO                                            6
-BANK DROP BOX/MONEY DROP-OUTSIDE OF BANK*                               5
-MTA - ORANGE LINE - PIERCE COLLEGE                                      5
+RETIRED (DUPLICATE) DO NOT USE THIS CODE                                6
 MTA - ORANGE LINE - NORDHOFF                                            5
-MTA - ORANGE LINE - LAUREL CANYON                                       5
+BANK DROP BOX/MONEY DROP-OUTSIDE OF BANK*                               5
 MTA - ORANGE LINE - DE SOTO                                             5
+MTA - ORANGE LINE - LAUREL CANYON                                       5
 CHEMICAL STORAGE/MANUFACTURING PLANT                                    4
-MTA - SILVER LINE - ROSECRANS                                           4
 SURPLUS SURVIVAL STORE                                                  4
-MTA - SILVER LINE - 37TH ST/USC                                         4
 MTA - GOLD LINE - INDIANA                                               4
+MTA - SILVER LINE - ROSECRANS                                           4
 SKATING RINK*                                                           4
-OIL REFINERY                                                            3
-VIDEO RENTAL STORE                                                      3
+MTA - SILVER LINE - 37TH ST/USC                                         4
+MTA - ORANGE LINE - VALLEY COLLEGE                                      3
 HOCKEY RINK/ICE HOCKEY                                                  3
 MTA - SILVER LINE - MANCHESTER                                          3
-MTA - SILVER LINE - UNION STATION                                       3
-MTA - ORANGE LINE - VALLEY COLLEGE                                      3
 HANDBALL COURTS                                                         3
+MTA - SILVER LINE - UNION STATION                                       3
 ABORTION CLINIC/ABORTION FACILITY*                                      3
-MTA - SILVER LINE - LAC/USC MEDICAL CENTER                              2
+OIL REFINERY                                                            3
+VIDEO RENTAL STORE                                                      3
 MUSCLE BEACH                                                            2
 MTA - SILVER LINE - DOWNTOWN STREET STOPS                               2
+MTA - SILVER LINE - LAC/USC MEDICAL CENTER                              2
 MTA - SILVER LINE - PACIFIC COAST HWY                                   2
-HORSE RACING/SANTA ANITA PARK*                                          1
 MTA - GOLD LINE - LITTLE TOKYO/ARTS DISTRICT                            1
+HORSE RACING/SANTA ANITA PARK*                                          1
 HARBOR FRWY STATION (NOT LINE SPECIFIC)                                 1
-Name: Premis Desc, dtype: int64
+Name: Premessa Desc, dtype: int64
 
-Weapon Distribution:
-STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE)    132629
-UNKNOWN WEAPON/OTHER WEAPON                        23185
-VERBAL THREAT                                      17918
-HAND GUN                                           13904
-SEMI-AUTOMATIC PISTOL                               5110
-KNIFE WITH BLADE 6INCHES OR LESS                    5106
-OTHER KNIFE                                         4421
-UNKNOWN FIREARM                                     4201
-MACE/PEPPER SPRAY                                   2709
-VEHICLE                                             2400
-PIPE/METAL PIPE                                     1796
-BOTTLE                                              1778
-STICK                                               1761
-ROCK/THROWN OBJECT                                  1736
-FOLDING KNIFE                                       1701
-CLUB/BAT                                            1612
-KITCHEN KNIFE                                       1483
-AIR PISTOL/REVOLVER/RIFLE/BB GUN                    1418
-KNIFE WITH BLADE OVER 6 INCHES IN LENGTH            1289
-BLUNT INSTRUMENT                                    1082
-HAMMER                                               924
-MACHETE                                              891
-REVOLVER                                             837
-SIMULATED GUN                                        737
-OTHER CUTTING INSTRUMENT                             659
-PHYSICAL PRESENCE                                    654
-UNKNOWN TYPE CUTTING INSTRUMENT                      638
-OTHER FIREARM                                        610
-SCREWDRIVER                                          570
+Distribuzione Armi Usate:
+STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE)    133430
+UNKNOWN WEAPON/OTHER WEAPON                        23354
+VERBAL THREAT                                      18020
+HAND GUN                                           14010
+SEMI-AUTOMATIC PISTOL                               5145
+KNIFE WITH BLADE 6INCHES OR LESS                    5133
+OTHER KNIFE                                         4440
+UNKNOWN FIREARM                                     4225
+MACE/PEPPER SPRAY                                   2716
+VEHICLE                                             2423
+PIPE/METAL PIPE                                     1810
+BOTTLE                                              1792
+STICK                                               1773
+ROCK/THROWN OBJECT                                  1746
+FOLDING KNIFE                                       1710
+CLUB/BAT                                            1626
+KITCHEN KNIFE                                       1494
+AIR PISTOL/REVOLVER/RIFLE/BB GUN                    1426
+KNIFE WITH BLADE OVER 6 INCHES IN LENGTH            1300
+BLUNT INSTRUMENT                                    1085
+HAMMER                                               931
+MACHETE                                              897
+REVOLVER                                             840
+SIMULATED GUN                                        743
+OTHER CUTTING INSTRUMENT                             660
+PHYSICAL PRESENCE                                    657
+UNKNOWN TYPE CUTTING INSTRUMENT                      641
+OTHER FIREARM                                        619
+SCREWDRIVER                                          571
 BELT FLAILING INSTRUMENT/CHAIN                       520
-CONCRETE BLOCK/BRICK                                 488
-SCISSORS                                             478
-RIFLE                                                332
-FIRE                                                 323
+CONCRETE BLOCK/BRICK                                 492
+SCISSORS                                             483
+RIFLE                                                334
+FIRE                                                 326
 FIXED OBJECT                                         315
 STUN GUN                                             281
-GLASS                                                261
+GLASS                                                262
 AXE                                                  242
-BOARD                                                230
-SHOTGUN                                              209
+BOARD                                                232
+SHOTGUN                                              210
 CAUSTIC CHEMICAL/POISON                              185
 SWITCH BLADE                                         169
-BRASS KNUCKLES                                       164
+BRASS KNUCKLES                                       165
 TOY GUN                                              113
 SCALDING LIQUID                                      107
 SWORD                                                103
-TIRE IRON                                             95
+TIRE IRON                                             97
 RAZOR BLADE                                           90
 HECKLER & KOCH 93 SEMIAUTOMATIC ASSAULT RIFLE         71
 DIRK/DAGGER                                           70
-ASSAULT WEAPON/UZI/AK47/ETC                           58
+ASSAULT WEAPON/UZI/AK47/ETC                           59
 ICE PICK                                              53
+LIQUOR/DRUGS                                          46
 EXPLOXIVE DEVICE                                      45
-LIQUOR/DRUGS                                          45
 BOMB THREAT                                           43
 RAZOR                                                 42
-ROPE/LIGATURE                                         35
+ROPE/LIGATURE                                         37
 DOG/ANIMAL (SIC ANIMAL ON)                            35
 SEMI-AUTOMATIC RIFLE                                  35
 CLEAVER                                               28
@@ -399,5 +399,5 @@ MAC-10 SEMIAUTOMATIC ASSAULT WEAPON                    2
 M1-1 SEMIAUTOMATIC ASSAULT RIFLE                       1
 HECKLER & KOCH 91 SEMIAUTOMATIC ASSAULT RIFLE          1
 M-14 SEMIAUTOMATIC ASSAULT RIFLE                       1
-Name: Weapon Desc, dtype: int64
+Name: Arma Usata Desc, dtype: int64
 
